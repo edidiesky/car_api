@@ -2,6 +2,11 @@
 # AutoBlox API: Powering Modern Car Dealerships
 
 Introducing the AutoBlox API, a powerhouse of features for the modern car dealership ecosystem. This dynamic API encompasses Authentication, Authorization with JWT, Seamless Stripe Payment Integration, Advanced Order Management, and an intelligent Search and Filtering Functionality. Developed with Node.js and Express.js, the AutoBlox API revolutionizes the way dealerships manage and enhance their services. Explore the future of automotive retail technology with AutoBlox! 
+
+## API Documentation
+
+Explore the comprehensive API documentation to understand how to use each endpoint, request and response formats, and authentication methods. Please refer to the [API Documentation](https://app.swaggerhub.com/apis-docs/ESSIENEDIDIONG1000_1/Car_Dealer_Api/1.0.0#/) for more details.
+
 ## Features of AutoBlox Api
 - **Authentication & Authorization:** I created endpoints where users were being authenticated. Generated authentication tokens provided from jwt were not left out. which I made good use of in restricting the actions made by the clients
 - **Stripe Payment Integration:** I had to integrate stripe in receing payment form the various cars that were being purchased by the user
